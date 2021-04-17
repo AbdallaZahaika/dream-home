@@ -2,7 +2,15 @@
 
 ## this is my graduation project from HackerU College.
 
-This project will help you to find your dream home or sell or rent as soon as possible.
+This web application is built on mongoDb + nodeJs +
+react + redux
+A real estate app where anyone who signs up can add
+His house and thus publish them with pictures of
+The place, phone number of the owner of the place,
+exact details of the property And the price. That way,
+anyone who logs into the app can Impress and decide
+whether to contact in order to buy / rent
+
 
 ### link to visit website
 
